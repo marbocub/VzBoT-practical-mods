@@ -10,16 +10,17 @@ note: After the Vz330 V1.2 is released, the left and the right of the Y gantry a
 ![Image1](Images/image-001.jpg)
 ![Image2](Images/image-002.jpg)
 ![Image3](Images/image-003.png)
+![Image4](Images/image-004.png)
 
 ## BOM
 
-|Part|STL|
-|---|---|
-|Left Bottom|This Y_gantry_1515_bottom_left.stl|
-|Right Bottom|This Y_gantry_1515_bottom_right.stl|
-|Left Top|The official Vz330 V1.2's Y_gantry_top_left.stl|
-|Right Top|The official Vz330 V1.2's Y_gantry_top_right.stl|
-|X end stop|The official Vz330 V1.2's XendStop.stl|
+|Part|STL|PCs|
+|---|---|---|
+|Left Bottom|This Y_gantry_1515_bottom_left.stl|1|
+|Right Bottom|This Y_gantry_1515_bottom_right.stl|1|
+|Left Top|The official Vz330 V1.2's Y_gantry_top_left.stl|1|
+|Right Top|The official Vz330 V1.2's Y_gantry_top_right.stl|1|
+|X end stop|The official Vz330 V1.2's XendStop.stl|1|
 
 ## License
 
